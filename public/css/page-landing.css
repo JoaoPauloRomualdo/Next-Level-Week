@@ -73,7 +73,7 @@ main h1
     #container
     {
         background: url("../images/bg.svg") no-repeat 80% / clamp(30rem, 54vw ,56rem);
-        padding: 5rem 2rem;
+        padding: 9rem 2rem;
     }
     header
     {
