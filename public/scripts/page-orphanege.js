@@ -5,8 +5,10 @@ const option = {
     scrollWheelZoom: false,
     zoomControl:false
 }
+const lat = document.querySelector('span[data-lat]').dataset.lat
+const lng = document.querySelector('span[data-lng]').dataset.lng
 
-const map = L.map('mapid',option).setView([-22.902637,-49.6342586], 15);
+const map = L.map('mapid',option).setView([lat,lng], 15);
 
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -21,8 +23,9 @@ const icon = L.icon({
     popupAnchor:[170, 2]
 })
 
+
 //criando a marca no mapa
-L.marker([-22.902637,-49.6342586], {icon})
+L.marker([lat,lng], {icon})
     .addTo(map)
 
 

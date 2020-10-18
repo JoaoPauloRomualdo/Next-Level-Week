@@ -88,3 +88,10 @@ function toggleSelect(event) {
 
         input.value = button.dataset.value
 }
+
+// function validate(event){
+//     //validar os lat e lng
+
+//     event.preventDefault()
+//     alert("preencha os campos dos mapas")
+// }
