@@ -6,7 +6,7 @@
     HAPPY
 </h1>
 <p align="center">
-    Happy e uma aplicação web criada na semana Next Level Week criada Pela <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">Rocketseat🚀</a>,  para conectar pessoas e Serviços de acolhimento a criança mais proximos, assim incentivar as pessoas a irem visitar as crianças e levar felicidade a elas ...
+    Happy e uma aplicação web criada na semana Next Level Week um workshop criado  Pela equipe <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">Rocketseat🚀</a>,  para conectar pessoas e Serviços de acolhimento a criança mais proximos, assim incentivar as pessoas a irem visitar as crianças e levar felicidade a elas ...
 </p>    
 
 <h4 align="center"> 
